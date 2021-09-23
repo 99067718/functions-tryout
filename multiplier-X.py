@@ -15,4 +15,8 @@ while looped == True:
         looped = False
         break
     Tafel()
+
+def guess(number=1):
+    print(number)
+guess(2)
     
